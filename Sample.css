@@ -1,0 +1,83 @@
+﻿body {
+    background: #cfc url(http://paper-backgrounds.com/textureimages/2012/06/yellow-aged-paper-background-hd.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+}
+
+header {
+    height: 100px;
+    background-image: url('headerbackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+header img {
+    height: 100%;
+    width: 25%;
+}
+
+header h1 {
+    float: right;
+}
+
+.nav.navbar-nav.navbar-left li a {
+    color: black;
+    padding-left: 60px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
+.container-fluid {
+  background-color:#3A5FCD;
+    color: black;
+  }
+
+#muscypic {
+    margin-top: -20px;
+    float: left;
+}
+
+.mission {
+    height: 450px;
+    width: 740px;
+    background-image: url('Funny-Cat-Desktop-Wallpapers.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    float: right;
+}
+
+.content {
+    background-image: url('criminaljustice.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.content h1 {
+    text-align: center;
+}
+
+#awards {
+    padding-left: 180px;
+    
+}
+
+footer {
+    height: 70px;
+    background-image: url('headerbackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}

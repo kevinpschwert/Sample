@@ -1,0 +1,91 @@
+﻿body {
+    background: #cfc url(http://paper-backgrounds.com/textureimages/2012/06/yellow-aged-paper-background-hd.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+}
+
+header {
+    height: 100px;
+    background-image: url('headerbackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    
+}
+
+header img {
+    height: 100%;
+    width: 25%;
+}
+
+header h1 {
+    float: right;
+}
+
+.nav.navbar-nav.navbar-left li a {
+    color: black;
+    padding-left: 60px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+    color: black;
+}
+
+.container-fluid {
+  background-color:#3A5FCD;
+    color: black;
+  }
+
+#location {
+     margin-top: -20px;
+    float: left;
+}
+
+.looking {
+    height: 400px;
+    width: 440px;
+    background-image: url(https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqc-QSmwz18V06aS6hox395pi9n4OOLW_wEbpJ2nqPC1jrIhrL);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    float: right;
+}
+
+.looking h1 {
+    font-size: 50px;
+}
+
+.looking li {
+    font-size: 20px;
+    color: black;
+    padding-left: 10px;
+}
+
+#awards {
+    padding-left: 80px;
+}
+
+#map {
+    background-color: white;
+}
+
+.line-separator{
+    height:1px;
+    background:#717171;
+    border-bottom:1px solid #313030;
+
+}
+
+footer {
+    height: 70px;
+    background-image: url('headerbackground.jpg');
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
